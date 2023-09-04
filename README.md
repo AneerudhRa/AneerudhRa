@@ -9,7 +9,7 @@ Skills: TERRAFORM / PYTHON / PANDAS / JS / HTML / CSS / SQL
 - 💬 Ask me about Cloud 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aneerudh-ravishankar-4160a1141/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aneerudh-ravishankar-4160a1141/)   Do have a look at my LinkedIn profile !!
 
 
 
