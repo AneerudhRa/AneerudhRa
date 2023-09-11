@@ -2,7 +2,7 @@
 Cloud Developer | Data Analyst | Financial Analyst | Web Developer
 
 📧 Email: aneerudh@utexas.edu
-💼 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/aneerudh-ravishankar-4160a1141)
+💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/aneerudh-ravishankar-4160a1141/)
 
 ## About Me
 I am a passionate and innovative software engineer with a background in data science and cloud. My goal is to leverage technology to solve complex problems and create meaningful applications in technology and finance.
