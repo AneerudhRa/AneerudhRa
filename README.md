@@ -18,8 +18,8 @@ I am a passionate and innovative software engineer with a background in data sci
 
 ## Projects
 ### Project 1 - Azure Landing Zone
-Description: 
-GitHub Repository: 
+Description: Terraform scripts for Azure resources
+GitHub Repository: <a href="(https://github.com/AneerudhRa/Terraform-Azure-Modules)" target="_blank">  </a> 
 
 ## Interests
 I have strong interests in Finance, Technology and Consulting.
