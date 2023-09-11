@@ -18,9 +18,14 @@ I am a passionate and innovative software engineer with a background in data sci
 
 ## Projects
 ### Project 1 - Azure Landing Zone
-Description: Terraform scripts for Azure resources <br>
+Description: Terraform scripts for Azure resources
+Link: (https://github.com/AneerudhRa/Terraform-Azure-Modules)
 
-## Interests
+### Project 2 - Portfolio Optimization Model
+Description: A financial model in Excel discussing various Portfolio Optimization models for 5 US and Indian stocks
+Link: (https://github.com/AneerudhRa/Portfolio-Optimization-Model)
+
+## Profession & Passion
 I have strong interests in Finance, Technology and Consulting.
 
 ## Hobbies
