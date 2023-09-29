@@ -26,6 +26,10 @@ Link: [Terraform-Azure-Modules](https://github.com/AneerudhRa/Terraform-Azure-Mo
 Description: A financial model in Excel discussing various Portfolio Optimization models for 5 US and Indian stocks.  
 Link:[Portfolio-Optimization-Model](https://github.com/AneerudhRa/Portfolio-Optimization-Model)
 
+### Project 3 - Capital Budgeting Model
+Description: A financial excel model discussing static and stochastic scenarios for a hypothetical case on Capital budgeting.
+Link:[Capital-Budgeting-Model](https://github.com/AneerudhRa/Capital-Budgeting-Model)
+
 ## Profession & Passion
 I have strong interests in Finance, Technology and Consulting.
 
