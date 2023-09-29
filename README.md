@@ -27,7 +27,7 @@ Description: A financial model in Excel discussing various Portfolio Optimizatio
 Link:[Portfolio-Optimization-Model](https://github.com/AneerudhRa/Portfolio-Optimization-Model)
 
 ### Project 3 - Capital Budgeting Model
-Description: A financial excel model discussing static and stochastic scenarios for a hypothetical case on Capital budgeting.
+Description: A financial excel model discussing static and stochastic scenarios for a hypothetical case on Capital budgeting.   
 Link:[Capital-Budgeting-Model](https://github.com/AneerudhRa/Capital-Budgeting-Model)
 
 ## Profession & Passion
