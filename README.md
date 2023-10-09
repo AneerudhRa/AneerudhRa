@@ -12,7 +12,7 @@ I am a passionate and innovative software engineer with a background in data sci
 - Cloud & Tools: AWS, Azure, Devops, CI/CD
 - Data Analysis: Pandas, NumPy, Matplotlib
 - Web Development: HTML, CSS, JavaScript
-- Machine Learning: Scikit-Learn, TensorFlow
+- Machine Learning: Scikit-Learn, TensorFlow, NLP, Selenium, BeautifulSoup
 - Database: SQL
 - Version Control: Git, GitHub
 
@@ -29,6 +29,10 @@ Link:  [Portfolio-Optimization-Model](https://github.com/AneerudhRa/Portfolio-Op
 ### Project 3 - Capital Budgeting Model
 Description: A financial excel model discussing static and stochastic scenarios for a hypothetical case on Capital budgeting.   
 Link:  [Capital-Budgeting-Model](https://github.com/AneerudhRa/Capital-Budgeting-Model)
+
+### Project 4 - NLP Analysis Stock Forum
+Description: A project which uses NLP techniques to perform text analytics on a stock forum and thereby applying various analysis to pick best stocks.   
+Link:  [NLP-Analysis-StockForum](https://github.com/AneerudhRa/NLP_Analysis_StockForum)
 
 ## Profession & Passion
 I have strong interests in Finance, Technology and Consulting.
