@@ -21,7 +21,6 @@ I am a passionate and innovative software engineer with a background in data sci
 Description: Terraform scripts for Azure resources.  
 Link: [Terraform-Azure-Modules](https://github.com/AneerudhRa/Terraform-Azure-Modules)
 
-
 ### Project 2 - Portfolio Optimization Model
 Description: A financial model in Excel discussing various Portfolio Optimization models for 5 US and Indian stocks.  
 Link:  [Portfolio-Optimization-Model](https://github.com/AneerudhRa/Portfolio-Optimization-Model)
@@ -33,6 +32,10 @@ Link:  [Capital-Budgeting-Model](https://github.com/AneerudhRa/Capital-Budgeting
 ### Project 4 - NLP Analysis Stock Forum
 Description: A project which uses NLP techniques to perform text analytics on a stock forum and thereby applying various analysis to pick best stocks.   
 Link:  [NLP-Analysis-StockForum](https://github.com/AneerudhRa/NLP_Analysis_StockForum)
+
+### Project 5 - Moving Average Crossover Strategy
+Description: MA cross-over strategy for the EUR USD forex pair to aid in buy/sell decisions 
+Link:  [Moving Average Crossover Strategy](https://github.com/AneerudhRa/movingaverage_crossover_forex)
 
 ## Profession & Passion
 I have strong interests in Finance, Technology and Consulting.
