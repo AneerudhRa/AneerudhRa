@@ -34,7 +34,7 @@ Description: A project which uses NLP techniques to perform text analytics on a 
 Link:  [NLP-Analysis-StockForum](https://github.com/AneerudhRa/NLP_Analysis_StockForum)
 
 ### Project 5 - Moving Average Crossover Strategy
-Description: MA cross-over strategy for the EUR USD forex pair to aid in buy/sell decisions 
+Description: MA cross-over strategy for the EUR USD forex pair to aid in buy/sell decisions   
 Link:  [Moving Average Crossover Strategy](https://github.com/AneerudhRa/movingaverage_crossover_forex)
 
 ## Profession & Passion
