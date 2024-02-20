@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Aneerudh Ravishankar</h1>
 <h3 align="center">I am a passionate and innovative software engineer with a background in data science and cloud. My goal is to leverage technology to solve complex problems and create meaningful applications in technology and finance.</h3>
