@@ -1,47 +1,35 @@
-### Hi there 👋, I am Aneerudh Ravishankar
-Cloud Developer | Data Analyst | Financial Analyst | Web Developer
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 
-📧 Email: aneerudh@utexas.edu
-💼 LinkedIn: <a href="https://www.linkedin.com/in/aneerudh-ravishankar-4160a1141/" target="_blank"> My LinkedIn Profile</a>
-
-## About Me
-I am a passionate and innovative software engineer with a background in data science and cloud. My goal is to leverage technology to solve complex problems and create meaningful applications in technology and finance.
-
-## Skills
-- Programming Languages: Python, SQL, C/C++, R, Terraform, ARM, Powershell
-- Cloud & Tools: AWS, Azure, Devops, CI/CD
-- Data Analysis: Pandas, NumPy, Matplotlib
-- Web Development: HTML, CSS, JavaScript
-- Machine Learning: Scikit-Learn, TensorFlow, NLP, Selenium, BeautifulSoup
-- Database: SQL
-- Version Control: Git, GitHub
-
-## Projects
-### Project 1 - Azure Landing Zone
-Description: Terraform scripts for Azure resources.  
-Link: [Terraform-Azure-Modules](https://github.com/AneerudhRa/Terraform-Azure-Modules)
-
-### Project 2 - Portfolio Optimization Model
-Description: A financial model in Excel discussing various Portfolio Optimization models for 5 US and Indian stocks.  
-Link:  [Portfolio-Optimization-Model](https://github.com/AneerudhRa/Portfolio-Optimization-Model)
-
-### Project 3 - Capital Budgeting Model
-Description: A financial excel model discussing static and stochastic scenarios for a hypothetical case on Capital budgeting.   
-Link:  [Capital-Budgeting-Model](https://github.com/AneerudhRa/Capital-Budgeting-Model)
-
-### Project 4 - NLP Analysis Stock Forum
-Description: A project which uses NLP techniques to perform text analytics on a stock forum and thereby applying various analysis to pick best stocks.   
-Link:  [NLP-Analysis-StockForum](https://github.com/AneerudhRa/NLP_Analysis_StockForum)
-
-### Project 5 - Moving Average Crossover Strategy
-Description: MA cross-over strategy for the EUR USD forex pair to aid in buy/sell decisions   
-Link:  [Moving Average Crossover Strategy](https://github.com/AneerudhRa/movingaverage_crossover_forex)
-
-## Profession & Passion
-I have strong interests in Finance, Technology and Consulting.
-
-## Hobbies
-- I'm a Trinity College of Music, London certified pianist.
-- I enjoy playing chess, volleyball in my spare time.
+<h1 align="center">Hi 👋, I'm Aneerudh Ravishankar</h1>
+<h3 align="center">I am a passionate and innovative software engineer with a background in data science and cloud. My goal is to leverage technology to solve complex problems and create meaningful applications in technology and finance.</h3>
+<img align="right" alt="Coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneerudhra&label=Profile%20views&color=0e75b6&style=flat" alt="aneerudhra" /> </p>
+
+- 🔭 I’m currently working on [Stock Price Prediction with ML and NLP](https://github.com/AneerudhRa/NLP_Analysis_StockForum)
+
+- 🌱 I’m currently learning **MLops, GenAI**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AneerudhRa?tab=repositories](https://github.com/AneerudhRa?tab=repositories)
+
+- 💬 Ask me about **Cloud, Data Science, Finance, Stocks, Ancient History**
+
+- 📫 How to reach me **aneerudh@utexas.edu**
+
+- 📄 Know about my experiences [Click for Resume](https://www.linkedin.com/in/aneerudh-ravishankar-4160a1141/overlay/1706576171657/single-media-viewer/?profileId=ACoAACJcwxIBw3U1kCn_xru7BQid37CK6yIYUWg)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aneerudh-ravishankar-4160a1141/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aneerudh-ravishankar-4160a1141/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aneerudhra&show_icons=true&locale=en&layout=compact" alt="aneerudhra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aneerudhra&show_icons=true&locale=en" alt="aneerudhra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aneerudhra&" alt="aneerudhra" /></p>
