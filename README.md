@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aneerudh Ravishankar</h1>
 <h3 align="center">I am a passionate and innovative software engineer with a background in data science and cloud. My goal is to leverage technology to solve complex problems and create meaningful applications in technology and finance.</h3>
-<img align="right" alt="Coding" width="400" height="350" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+<img align="right" alt="Coding" width="400" height="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 
 
